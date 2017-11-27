@@ -1,0 +1,2 @@
+# Earthquick_indicator
+Earthquick_indicator
